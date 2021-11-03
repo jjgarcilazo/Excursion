@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 3.5em;
+}
+
+h2 {
+    font-size: 2.5em;
+}
+
+h1, h2 {
+    font-weight: lighter;
+}
+
+.link {
+    color: turquoise;
+}
+
+#text-lighter {
+    color: gray;
+    font-size: 25px;
+}
+
+.small-image {
+    padding: 25px;
+}
